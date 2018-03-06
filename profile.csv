@@ -2,4 +2,10 @@ name,age
 riz,22
 riyaz,21
 rizvi,22
+<<<<<<< HEAD
 riyaz ,50Gaurav, 200
+=======
+riyaz ,50
+sanket, 100
+riyaz, 100
+>>>>>>> 9f61a255ff61b2d4604feb466186dc9e6966ca6b
